@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "https://vignette.wikia.nocookie.net/southpark/images/9/95/Kyle-broflovski.png/revision/latest?cb=20190411033301",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/6f/KennyMcCormick.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "https://img.cinemablend.com/filter:scale/quill/b/0/8/9/9/d/b0899d0030ce935d0625b80ed19d2e857914db0d.jpg?mw=600",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "http://southparkstudios.mtvnimages.com/shared/characters/kids/eric-cartman.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "https://ubistatic19-a.akamaihd.net/resource/en-us/game/southpark/thefracturedbutwhole/spfbw-characters-teamfreedom-tupperware-day.png",
+        "clicked": false
+    },
+    {
+        "id":6,
+        "image": "http://southparkstudios.mtvnimages.com/shared/characters/kids/stan-marsh.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "https://i.pinimg.com/originals/61/f3/d0/61f3d0b914f3a71f22c2c208ea875c98.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "https://images.complex.com/complex/images/c_limit,dpr_auto,q_90,w_720/fl_lossy,pg_1/oiadq3ovlxp7r8bt385r/best-south-park-characters-randy-marsh",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "https://img.cinemablend.com/filter:scale/quill/1/1/1/2/f/a/1112fa9f8f64300ec494ea5f72e4f432d84c01dc.jpg?mw=600",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "https://vignette.wikia.nocookie.net/southpark/images/5/58/Mr_Mackey_New.png/revision/latest?cb=20160402100931",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "https://vignette.wikia.nocookie.net/southpark/images/9/9e/Wendyy.png/revision/latest?cb=20171014061739",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "https://cdn2-www.mandatory.com/assets/uploads/2017/02/sp-FAQ-whats-the-deal-with-towelie-blog-e1488209447433.jpg",
+        "clicked": false
+    }
+]
